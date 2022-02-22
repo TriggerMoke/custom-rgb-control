@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/triggerm/github/custom-rgb-control/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/CCRGB.dir/src/main.cpp.o -c /home/triggerm/github/custom-rgb-control/src/main.cpp",
+  "file": "/home/triggerm/github/custom-rgb-control/src/main.cpp"
+}
+]

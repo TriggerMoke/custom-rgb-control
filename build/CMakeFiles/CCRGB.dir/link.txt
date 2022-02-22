@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/CCRGB.dir/src/main.cpp.o -o CCRGB 
